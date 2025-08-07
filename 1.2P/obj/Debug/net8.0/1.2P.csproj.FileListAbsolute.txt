@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\1.2P\1.2P\bin\Debug\net8.0\1.2P.exe
+C:\Users\DELL\source\repos\1.2P\1.2P\bin\Debug\net8.0\1.2P.deps.json
+C:\Users\DELL\source\repos\1.2P\1.2P\bin\Debug\net8.0\1.2P.runtimeconfig.json
+C:\Users\DELL\source\repos\1.2P\1.2P\bin\Debug\net8.0\1.2P.dll
+C:\Users\DELL\source\repos\1.2P\1.2P\bin\Debug\net8.0\1.2P.pdb
+C:\Users\DELL\source\repos\1.2P\1.2P\obj\Debug\net8.0\1.2P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\1.2P\1.2P\obj\Debug\net8.0\1.2P.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\1.2P\1.2P\obj\Debug\net8.0\1.2P.AssemblyInfo.cs
+C:\Users\DELL\source\repos\1.2P\1.2P\obj\Debug\net8.0\1.2P.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1.2P\1.2P\obj\Debug\net8.0\1.2P.dll
+C:\Users\DELL\source\repos\1.2P\1.2P\obj\Debug\net8.0\refint\1.2P.dll
+C:\Users\DELL\source\repos\1.2P\1.2P\obj\Debug\net8.0\1.2P.pdb
+C:\Users\DELL\source\repos\1.2P\1.2P\obj\Debug\net8.0\1.2P.genruntimeconfig.cache
+C:\Users\DELL\source\repos\1.2P\1.2P\obj\Debug\net8.0\ref\1.2P.dll
