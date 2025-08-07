@@ -1,0 +1,27 @@
+/Users/cpierce/Desktop/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.deps.json
+/Users/cpierce/Desktop/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.runtimeconfig.json
+/Users/cpierce/Desktop/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.runtimeconfig.dev.json
+/Users/cpierce/Desktop/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.dll
+/Users/cpierce/Desktop/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.pdb
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.csproj.AssemblyReference.cache
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.AssemblyInfoInputs.cache
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.AssemblyInfo.cs
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.csproj.CoreCompileInputs.cache
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.dll
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.pdb
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.genruntimeconfig.cache
+/Users/cpierce/Desktop/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.exe
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.deps.json
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.runtimeconfig.json
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.dll
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.pdb
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.AssemblyInfo.cs
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.dll
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.pdb
+C:\Users\DELL\Downloads\OOP - Topic 01 - Part C - Card Demo-1\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.genruntimeconfig.cache
