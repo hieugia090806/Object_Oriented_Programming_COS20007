@@ -1,0 +1,17 @@
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\bin\Debug\net9.0-windows\Tetris.exe
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\bin\Debug\net9.0-windows\Tetris.deps.json
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\bin\Debug\net9.0-windows\Tetris.runtimeconfig.json
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\bin\Debug\net9.0-windows\Tetris.dll
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\bin\Debug\net9.0-windows\Tetris.pdb
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\obj\Debug\net9.0-windows\Tetris.Form1.resources
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\obj\Debug\net9.0-windows\Tetris.csproj.GenerateResource.cache
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\obj\Debug\net9.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\obj\Debug\net9.0-windows\Tetris.AssemblyInfoInputs.cache
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\obj\Debug\net9.0-windows\Tetris.AssemblyInfo.cs
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\obj\Debug\net9.0-windows\Tetris.csproj.CoreCompileInputs.cache
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\obj\Debug\net9.0-windows\Tetris.dll
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\obj\Debug\net9.0-windows\refint\Tetris.dll
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\obj\Debug\net9.0-windows\Tetris.pdb
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\obj\Debug\net9.0-windows\Tetris.genruntimeconfig.cache
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\obj\Debug\net9.0-windows\ref\Tetris.dll
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\6.3D_Custom_Program\Tetris\Tetris\obj\Debug\net9.0-windows\Tetris.g.resources
