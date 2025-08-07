@@ -1,0 +1,14 @@
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\bin\Debug\net8.0\Clock.exe
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\bin\Debug\net8.0\Clock.deps.json
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\bin\Debug\net8.0\Clock.runtimeconfig.json
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\bin\Debug\net8.0\Clock.dll
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\bin\Debug\net8.0\Clock.pdb
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\obj\Debug\net8.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\obj\Debug\net8.0\Clock.AssemblyInfoInputs.cache
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\obj\Debug\net8.0\Clock.AssemblyInfo.cs
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\obj\Debug\net8.0\Clock.csproj.CoreCompileInputs.cache
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\obj\Debug\net8.0\Clock.dll
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\obj\Debug\net8.0\refint\Clock.dll
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\obj\Debug\net8.0\Clock.pdb
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\obj\Debug\net8.0\Clock.genruntimeconfig.cache
+D:\University\May_2025\COS20007_Object_Oriented_Programming\Weekly_exercises\3.1P\Clock\Clock\obj\Debug\net8.0\ref\Clock.dll
